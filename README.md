@@ -1,7 +1,7 @@
 # Code Refactor Assignment
 
-_For bootcamp_
-This project is a sample webpage modified with code for accessibility.
+_For bootcamp_  
+This project is a sample webpage modified with code for accessibility.  
 Changes:
 
 - Consolidated css class structure
